@@ -1,12 +1,12 @@
-# Goshen Communication Jalingo — Demo Website
+# Narafi Communication Jalingo — Demo Website
 
-A polished, responsive static website demo for Goshen Communication in Jalingo, Taraba State.
+A polished, responsive static website  for Narafi Communication in Jalingo, Taraba State.
 
 ## Business information used
-- Business: Goshen Communication
+- Business: Narafi Communication
 - Category: Cell phone store
-- Location: Local Government Secretariat, Before, Jalingo 660213, Taraba, Nigeria
-- Phone: 0813 541 4923
+- Location: Danejo plaza , Jalingo 660213, Taraba, Nigeria
+- Phone: 0806 896 5946
 - Opening status shown in the supplied listing: Open, closes 8:00 PM
 - Google rating shown in the supplied screenshot: 5.0 (1 review)
 
